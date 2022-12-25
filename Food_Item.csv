@@ -1,0 +1,3 @@
+FoodID,Name,Quantity,Price,Discount,Stock
+4,Pancake,5 pieces,INR250,0.5,20
+5,Muffin,8 pieces,INR150,0.2,30
